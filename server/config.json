@@ -1,7 +1,7 @@
 {
   "restApiRoot": "/api",
   "host": "api.mobradio.com.br",
-  "port": 3001,
+  "port": 3002,
   "url": "https://api.mobradio.com.br/",
   "httpMode": false,
   "certConfig": {
